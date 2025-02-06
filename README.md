@@ -25,7 +25,7 @@ This Book-Search-18 Engine is a full-stack MERN application that allows users to
 
 ## Usage
 
-This applciation is deployed using Render and MongoDB Atlas. Access it [Render](#render)
+This application is deployed using Render and MongoDB Atlas. Access it [Render](#render)
 
 ## Render 
 
@@ -34,7 +34,8 @@ This applciation is deployed using Render and MongoDB Atlas. Access it [Render](
 
 ## Contributing
 
-- Insomnia https://insomnia.rest
+- MongoDB: https://cloud.mongodb.com/v2#/org/6789a430338cb22495bcae70/projects
+- Render Request Response - https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-render-and-mongodb-atlas
 - Tutor help via https://bootcampspot.instructure.com/courses/6651/external_tools/429
 - UCF Bootcamp TA
 
