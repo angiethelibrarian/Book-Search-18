@@ -13,7 +13,7 @@
 
 ## Description
 
-
+This Book-Search-18 Engine is a full-stack MERN application that allows users to search for books using the Google Books API and save their favorite books to their profile. Previously it was built with a RESTful API, but now uses GraphQL with Apollo Server.
 
 ## Installation
 

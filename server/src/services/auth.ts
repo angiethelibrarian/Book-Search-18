@@ -1,3 +1,4 @@
+// Update the auth middleware function to work with the GraphQL API.  
 import type { Request } from 'express';
 import jwt from 'jsonwebtoken';
 import { GraphQLError } from 'graphql';
