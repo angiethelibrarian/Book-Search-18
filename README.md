@@ -25,11 +25,11 @@ This Book-Search-18 Engine is a full-stack MERN application that allows users to
 
 ## Usage
 
-In this solution, users can 
+This applciation is deployed using Render and MongoDB Atlas. Access it [Render](#render)
 
 ## Render 
 
-- Link:  
+- Deployed site:  https://book-search-18.onrender.com
 
 
 ## Contributing
