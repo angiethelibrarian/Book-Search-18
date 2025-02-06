@@ -6,7 +6,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Walkthrough](#walkthrough)
+- [Render](#render)
 - [Contributing](#contributing)
 - [Questions](#questions)
 - [Tests](#tests)
@@ -17,14 +17,17 @@ This Book-Search-18 Engine is a full-stack MERN application that allows users to
 
 ## Installation
 
-- npm i
+- Clone the repository
+- npm install
+- Set up the .env
+- Start the application with npm install
 
 
 ## Usage
 
 In this solution, users can 
 
-## Walkthrough
+## Render 
 
 - Link:  
 

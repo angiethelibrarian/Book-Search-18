@@ -1,4 +1,4 @@
-import type { IBook } from '../models/Book.js';
+import IBook from '../models/Book.js';
 export default interface IUserDocument {
   username: string | null;
   email: string | null;
